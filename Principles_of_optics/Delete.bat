@@ -11,5 +11,5 @@ del *.lof /s
 del *.lol /s
 del *.lot /s
 del *.gz /s
-del main.pdf /s
+del *.pdf /s
 exit
